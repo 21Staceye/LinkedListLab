@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Stace\Downloads\lab9\lab05_soln\include\Graph.h(107,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stace\Downloads\lab9\lab05_soln\include\Graph.h(103,1): message : while compiling class template member function 'std::ostream &ssuds::operator <<(std::ostream &,const ssuds::Graph<std::string,float> &)'
+C:\Users\Stace\Downloads\lab9\lab05_soln\src\main.cpp(50,15): message : see reference to function template instantiation 'std::ostream &ssuds::operator <<(std::ostream &,const ssuds::Graph<std::string,float> &)' being compiled
+C:\Users\Stace\Downloads\lab9\lab05_soln\src\main.cpp(34,38): message : see reference to class template instantiation 'ssuds::Graph<std::string,float>' being compiled
+C:\Users\Stace\Downloads\lab9\lab05_soln\include\Graph.h(60): warning C4715: 'ssuds::Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>::has_edge': not all control paths return a value
+  ssuds.vcxproj -> C:\Users\Stace\Downloads\lab9\lab05_soln\bin\vs2022\Debug\ssuds_d.exe
